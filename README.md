@@ -1,4 +1,4 @@
-# PASSO 03 - CONDIÇÕES COMPOSTAS
+# PASSO 03 - CONDIÇÕES COMPOSTAS(exercícios Prof. GUSTAVO GUANABARA)
 26) Escreva um algoritmo que leia dois números inteiros e compare-os, mostrando
 na tela uma das mensagens abaixo:
  - O primeiro valor é o maior
